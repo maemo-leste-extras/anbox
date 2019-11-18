@@ -1,3 +1,11 @@
+anbox (0.0~git20191115-1) unstable; urgency=medium
+
+  * New upstream snapshot.
+    + Fix FTBFS with protobuf 3.10.1. (Closes: #944996)
+    + Set default command argv to help. (Closes: #930200)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Mon, 18 Nov 2019 23:13:33 +0800
+
 anbox (0.0~git20191022-1) unstable; urgency=medium
 
   * New upstream snapshot.
