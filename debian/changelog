@@ -1,3 +1,14 @@
+anbox (0.0~git20200526-1) unstable; urgency=medium
+
+  * New upstream snapshot.
+  * Remove /var/lib/anbox when purge (Closes: #951035)
+  * Refresh patches for new snapshot
+  * Add libglm-dev to Build-Depends
+  * Bump debhelper-compat to 13
+  * Update Standards-Version to 4.5.0 (no changes)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Thu, 28 May 2020 01:37:32 +0800
+
 anbox (0.0~git20191115-1) unstable; urgency=medium
 
   * New upstream snapshot.
