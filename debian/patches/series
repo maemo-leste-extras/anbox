@@ -1,5 +1,4 @@
 0001-fix-spelling-errors-in-external-libraries.patch
-0003-use-python3-for-emugl-headers-generate-scripts.patch
-0004-exclude-external-from-all-target.patch
-0005-pass-dpkg-buildflags-to-external-android-emugl.patch
-0006-fix-gmock-lib-path.patch
+0002-use-python3-for-emugl-headers-generate-scripts.patch
+0003-exclude-external-from-all-target.patch
+0004-pass-dpkg-buildflags-to-external-android-emugl.patch
