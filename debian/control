@@ -24,7 +24,7 @@ Build-Depends:
  lxc-dev,
  protobuf-compiler,
  python3,
-Standards-Version: 4.4.1
+Standards-Version: 4.5.0
 Homepage: https://anbox.io
 Vcs-Git: https://salsa.debian.org/zhsj/anbox.git
 Vcs-Browser: https://salsa.debian.org/zhsj/anbox
