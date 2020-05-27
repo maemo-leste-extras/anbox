@@ -72,10 +72,6 @@ Files: external/cpu_features/*_ppc*
 Copyright: 2018, IBM
 License: Apache-2.0
 
-Files: external/glm/*
-Copyright: 2005-2015, G-Truc Creation (www.g-truc.net)
-License: Expat
-
 Files: external/nsexec/*
 Copyright: 2012-2016, Canonical, Inc
 License: GPL-2
