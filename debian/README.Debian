@@ -31,6 +31,11 @@ You can run following commands to manually start the services:
   sudo systemctl start anbox-container-manager.service
   systemctl --user start anbox-session-manager.service
 .
+You may need to restart anbox-container-manager.service after you put the Android
+image at the right place.
+.
+  sudo systemctl restart anbox-container-manager.service
+.
 If the above commands all succeed, you can start the Android application from
 desktop menu now. Or you launch application from command line:
 .
