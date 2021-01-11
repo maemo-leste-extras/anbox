@@ -1,4 +1,4 @@
 0001-fix-spelling-errors-in-external-libraries.patch
-0002-use-python3-for-emugl-headers-generate-scripts.patch
-0003-exclude-external-from-all-target.patch
-0004-pass-dpkg-buildflags-to-external-android-emugl.patch
+0002-exclude-external-from-all-target.patch
+0003-pass-dpkg-buildflags-to-external-android-emugl.patch
+0004-Use-system-cpu_features-and-sdbus-c.patch

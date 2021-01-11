@@ -9,7 +9,7 @@ Signed-off-by: Shengjing Zhu <i@zhsj.me>
  2 files changed, 2 insertions(+), 2 deletions(-)
 
 diff --git a/CMakeLists.txt b/CMakeLists.txt
-index d87f689..c0f9bcc 100644
+index 713df49..6c44854 100644
 --- a/CMakeLists.txt
 +++ b/CMakeLists.txt
 @@ -136,7 +136,7 @@ set(ANBOX_STATEDIR_FULL "${CMAKE_INSTALL_FULL_LOCALSTATEDIR}/lib/anbox")
