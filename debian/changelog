@@ -1,3 +1,13 @@
+anbox (0.0~git20210106-1) unstable; urgency=medium
+
+  * New upstream snapshot.
+  * Add instruction to restart anbox-container-manager.service (Closes: #973487)
+  * Add libcpu-features-dev libsdbus-c++-dev to Build-Depends
+  * Install anbox xdg menu (Closes: #948618)
+  * Update Standards-Version to 4.5.1 (no changes)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Mon, 11 Jan 2021 11:56:16 +0800
+
 anbox (0.0~git20200526-1) unstable; urgency=medium
 
   * New upstream snapshot.
