@@ -64,14 +64,6 @@ Files: external/backward-cpp/*
 Copyright: 2013-2017, Google Inc.
 License: Expat
 
-Files: external/cpu_features/*
-Copyright: 2017-2018, Google Inc.
-License: Apache-2.0
-
-Files: external/cpu_features/*_ppc*
-Copyright: 2018, IBM
-License: Apache-2.0
-
 Files: external/nsexec/*
 Copyright: 2012-2016, Canonical, Inc
 License: GPL-2
@@ -188,7 +180,6 @@ License: GPL-3
 
 Files: src/anbox/cmds/system_info.cpp
  src/anbox/cmds/system_info.h
- src/anbox/dbus/codecs.h
  src/anbox/utils/*
 Copyright: 2017, Simon Fels <morphis@gravedo.de>
 License: LGPL-3
@@ -208,10 +199,6 @@ Files: src/anbox/common/binary_writer.cpp
  src/anbox/common/binary_writer.h
 Copyright: 2016, Thomas Voss <thomas.voss.bochum@gmail.com>
 License: GPL-3
-
-Files: src/anbox/dbus/sd_bus_helpers.h
-Copyright: 2018, OpenBMC
-License: Apache-2.0
 
 Files: src/anbox/rpc/channel.cpp
 Copyright: 2012, Canonical Ltd.
