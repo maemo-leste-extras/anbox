@@ -37,3 +37,6 @@ override_dh_auto_install:
 override_dh_gencontrol:
 	dh_maemo_icon
 	dh_gencontrol -- $(EXTRA_SUBSTVARS)
+
+override_dh_installinit:
+	dh_installinit --name=anbox-container-manager
