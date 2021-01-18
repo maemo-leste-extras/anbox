@@ -1,5 +1,5 @@
 data/desktop/anbox-android.menu /etc/xdg/menus/
-debian/anbox.desktop /usr/share/applications/
+debian/anbox.desktop /usr/share/applications/hildon
 debian/anbox.png /usr/share/pixmaps/
 scripts/anbox-bridge.sh /usr/share/anbox/
 scripts/anbox-shell.sh /usr/share/anbox/
