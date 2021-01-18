@@ -3,3 +3,4 @@
 0003-pass-dpkg-buildflags-to-external-android-emugl.patch
 0004-Use-system-cpu_features-and-sdbus-c.patch
 0001-leste-enable-32bit-support.patch
+give-more-time-to-start.patch
