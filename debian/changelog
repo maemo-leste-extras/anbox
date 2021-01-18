@@ -1,3 +1,11 @@
+anbox (0.0~git20210106-2) unstable; urgency=medium
+
+  * Add OpenRC initscript.
+  * Add anbox-image dependency for Leste.
+  * Lower dependency to dh12.
+
+ -- Ivan J. <parazyd@dyne.org>  Mon, 18 Jan 2021 15:27:13 +0100
+
 anbox (0.0~git20210106-1) unstable; urgency=medium
 
   * New upstream snapshot.
