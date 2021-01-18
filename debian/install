@@ -1,6 +1,4 @@
 data/desktop/anbox-android.menu /etc/xdg/menus/
-debian/anbox-container-manager.service /lib/systemd/system/
-debian/anbox-session-manager.service /usr/lib/systemd/user/
 debian/anbox.desktop /usr/share/applications/
 debian/anbox.png /usr/share/pixmaps/
 scripts/anbox-bridge.sh /usr/share/anbox/
