@@ -35,4 +35,5 @@ override_dh_auto_install:
 	cp snap/gui/icon.png debian/anbox.png
 
 override_dh_gencontrol:
+	dh_maemo_icon
 	dh_gencontrol -- $(EXTRA_SUBSTVARS)
