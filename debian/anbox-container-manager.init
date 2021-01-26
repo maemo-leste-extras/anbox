@@ -15,6 +15,9 @@ start_pre() {
 		mount -t binder binder /dev/binderfs
 	fi
 
+	modprobe binder_linux
+	modprobe ashmem_linux
+
 	checkpath --directory /usr/lib/lxc
 	checkpath --directory /usr/lib/lxc/rootfs
 
